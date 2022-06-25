@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Codes on CodeNotes</title>
+    <link>https://jesuscapistran.github.io/code/</link>
+    <description>Recent content in Codes on CodeNotes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jun 2022 14:57:14 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My coding notes </title>
+      <link>https://jesuscapistran.github.io/code/welcome/</link>
+      <pubDate>Sat, 25 Jun 2022 14:57:14 -0500</pubDate>
+      
+      <guid>https://jesuscapistran.github.io/code/welcome/</guid>
+      <description>This site is generated to store all my code notes while learning python programming. On other words, this site and repository has the intention to remind me the code I will be implementing during my learning journey.</description>
+    </item>
+    
+  </channel>
+</rss>
