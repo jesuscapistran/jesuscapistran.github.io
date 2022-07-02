@@ -6,7 +6,16 @@
     <description>Recent content in Posts on CodeNotes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jun 2022 21:30:46 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jul 2022 13:29:01 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20220702 - Filter data in python with high order functions</title>
+      <link>https://jesuscapistran.github.io/post/2022-07-02/</link>
+      <pubDate>Sat, 02 Jul 2022 13:29:01 -0500</pubDate>
+      
+      <guid>https://jesuscapistran.github.io/post/2022-07-02/</guid>
+      <description>July 02, 2022 Filter data in python with high order functions This project (Platzi) is to learn How to filter data from a list of dictionaries. The goal is to use the python high order functions filter() and map() to achieve the task. Note: You will require python &amp;gt; v3.9 to finish the 100% of the examples. However if you have only python 3 you can achieve the 90%. Don&amp;rsquo;t worry, let&amp;rsquo;s practice.</description>
+    </item>
+    
     <item>
       <title>Third_post</title>
       <link>https://jesuscapistran.github.io/post/third_post/</link>
