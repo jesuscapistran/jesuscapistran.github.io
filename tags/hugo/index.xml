@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugo on CodeNotes</title>
+    <link>https://jesuscapistran.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on CodeNotes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 09:45:32 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo workflow for posting a blog</title>
+      <link>https://jesuscapistran.github.io/post/2022/hugo_post_workflow/</link>
+      <pubDate>Sun, 03 Jul 2022 09:45:32 -0500</pubDate>
+      
+      <guid>https://jesuscapistran.github.io/post/2022/hugo_post_workflow/</guid>
+      <description>It has been a week since I configured and deployed my Blog with Hugo, I have notpost anyhting since then. Then Today I have experience a lot of trouble in the workflow for posting. That means, the new skill which is not training is inmediatly forgotten. Then lest write this mini guide to get back and remember the posting worflow in Hugo.
+1. Create a new Markdown file with Hugo The Hugo post should be write locally using a Markdown editor.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,19 @@
     <description>Recent content in Posts on CodeNotes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 13:29:01 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jul 2022 09:45:32 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>20220702 - Filter data in python with high order functions</title>
+      <title>Hugo workflow for posting a blog</title>
+      <link>https://jesuscapistran.github.io/post/2022/hugo_post_workflow/</link>
+      <pubDate>Sun, 03 Jul 2022 09:45:32 -0500</pubDate>
+      
+      <guid>https://jesuscapistran.github.io/post/2022/hugo_post_workflow/</guid>
+      <description>It has been a week since I configured and deployed my Blog with Hugo, I have notpost anyhting since then. Then Today I have experience a lot of trouble in the workflow for posting. That means, the new skill which is not training is inmediatly forgotten. Then lest write this mini guide to get back and remember the posting worflow in Hugo.
+1. Create a new Markdown file with Hugo The Hugo post should be write locally using a Markdown editor.</description>
+    </item>
+    
+    <item>
+      <title>Filter data in python with high order functions</title>
       <link>https://jesuscapistran.github.io/post/2022-07-02/</link>
       <pubDate>Sat, 02 Jul 2022 13:29:01 -0500</pubDate>
       
@@ -17,21 +27,12 @@
     </item>
     
     <item>
-      <title>Third_post</title>
-      <link>https://jesuscapistran.github.io/post/third_post/</link>
-      <pubDate>Sat, 25 Jun 2022 21:30:46 -0500</pubDate>
-      
-      <guid>https://jesuscapistran.github.io/post/third_post/</guid>
-      <description>This time I want to share the direction where de blog is deployed, all of this is public.</description>
-    </item>
-    
-    <item>
-      <title>Hugo_tutorial</title>
+      <title>Deploy HUGO Blog in Github Pages</title>
       <link>https://jesuscapistran.github.io/post/hugo_tutorial/</link>
       <pubDate>Sat, 25 Jun 2022 21:20:55 -0500</pubDate>
       
       <guid>https://jesuscapistran.github.io/post/hugo_tutorial/</guid>
-      <description>Once I load the Hugo site in my local machine, its time to configure and to deploy into Github. For this task I do a google search and find the following video tutorial:</description>
+      <description>Once I load the Hugo Sitein my local machine. I proceed to configure it and to deploy the Public folder into Github. For this task I do a google search and find the following video tutorial:</description>
     </item>
     
     <item>
