@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>markdown on CodeNotes</title>
+    <link>https://jesuscapistran.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on CodeNotes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2022 08:01:32 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nvim for writing in markdown</title>
+      <link>https://jesuscapistran.github.io/post/2022/nvim_markdown_test/</link>
+      <pubDate>Tue, 12 Jul 2022 08:01:32 -0500</pubDate>
+      
+      <guid>https://jesuscapistran.github.io/post/2022/nvim_markdown_test/</guid>
+      <description>NeoVim or nvim is a text editor based on the terminal, it is used to edit plain text or even for programming. In my case I decided to set up my nvim for writting in markdown. To have this configuration it is neccesary to cofig NeoVim.
+This modification were based on two sources:
+jdhao webpage (She is a machine learning engineer): Markdown Writing and previewing in NeoVim - A complete Guide Nicolas Schourmann (Programmer, New Zeland): Vim, aumenta tu velocidad de desarrollo Following jdhao tutorial + Nicolar Shourman course you can learn to customize your nvim enviroment and even you will learn to use the nvim editor.</description>
+    </item>
+    
+  </channel>
+</rss>
