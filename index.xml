@@ -6,7 +6,17 @@
     <description>Recent content on CodeNotes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jul 2022 08:01:32 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2022 09:01:32 -0500</lastBuildDate><atom:link href="https://jesuscapistran.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>commands to work in nvim</title>
+      <link>https://jesuscapistran.github.io/post/2022/nvim_tutorial/</link>
+      <pubDate>Tue, 12 Jul 2022 09:01:32 -0500</pubDate>
+      
+      <guid>https://jesuscapistran.github.io/post/2022/nvim_tutorial/</guid>
+      <description>Exit nvim editor vim or nvim are text editors based on the command line. If you dont know how to exit the nvim interface you shoul type esc + esc then write :q
+:q is the command to leave the nvim or vim editor. nvim modes Normal: You should type esc + esc Insert: You should type i Visual: You should type v Move the cursor in the text In Normal mode of nvim we can use the arrow keys to move in the text but there is a better solution, we can use the right hand using the h, j, k, l keys.</description>
+    </item>
+    
     <item>
       <title>nvim for writing in markdown</title>
       <link>https://jesuscapistran.github.io/post/2022/nvim_markdown_test/</link>
